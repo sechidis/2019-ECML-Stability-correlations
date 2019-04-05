@@ -1,5 +1,4 @@
-# 2018 - Stability of Feature Selection in the Presence of Prior Knowledge
-
+# 2019 - Stability of Feature Selection in the Presence of Prior Knowledge
 
 Matlab code for the methods presented in the paper **(under review)** <br/>
 On The Stability of Feature Selection in the Presence of Prior Knowledge, K. Sechidis, S. Nogueira, K. Papangelou, J. Weatherall, and G. Brown <br/>
